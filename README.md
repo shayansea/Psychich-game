@@ -10,6 +10,10 @@ Homework
 * html
 * javascript
 
+## problems 
+* not sure why "wins" won't update
+* trying to get rid of "meta" showing up as a guessed letter
+
 # Author
 * Shayan Anoushiravani
 
